@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scientist
+  - Enemy
+  - SpawnEnd
+  - spawner1
+  - BulletDestroyer
+  - Road
+  - health
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - player
+  - enemy
+  - health
+  - title
+  - Main Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1293070679
+    locked: 0
+  - name: enemy
+    uniqueID: 1424716893
+    locked: 0
+  - name: health
+    uniqueID: 1378689451
+    locked: 0
+  - name: player
+    uniqueID: 2858177499
+    locked: 0
